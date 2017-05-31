@@ -1,0 +1,5 @@
+body {font-family: verdana; text-align: center;}
+
+#box {height: 200px; width: 200px; display: none; position: relative;}
+
+.bold {font-weight: bold;}
